@@ -23,7 +23,7 @@
              <div class="signup">
                  Don't have an account?
              </br>
-             <a href="registration.html">Sign up</a>
+             <a href="registration.php">Sign up</a>
              </div>
              <img src="bg.png" style= "width: 600px; height: 400px; position: absolute; top:200px; left: 100px">
         </form>
